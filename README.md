@@ -1,1 +1,32 @@
-# Sachinkumaransh
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1024/1*99VvgE1zh2bvl8_6V0G00A.png)
+<h1 align="center">Hi 👋, I'm Sachin Kumar Ansh</h1>
+<h3 align="center"> A Passionate cybersecurity enthusiast from India</h3>
+<img align= "right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-183.gif"
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumaransh&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumaransh" /> </p>
+
+<p align="left"> <a href="https://twitter.com/sachinkumaransh" target="blank"><img src="https://img.shields.io/twitter/follow/sachinkumaransh?logo=twitter&style=for-the-badge" alt="sachinkumaransh" /></a> </p>
+
+- 🔭 I’m currently in **Lovely Professional University**
+
+- 🌱 I’m currently learning **Penetration testing**
+
+- 💬 Ask me about **DSA , C++**
+
+- 📫 How to reach me **sachinkumaransh9934@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sachinkumaransh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinkumaransh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sachin-kumar-ansh1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-kumar-ansh1122" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sachin kumar ansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sachin kumar ansh" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinkumaransh&show_icons=true&locale=en&layout=compact" alt="sachinkumaransh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinkumaransh&show_icons=true&locale=en" alt="sachinkumaransh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkumaransh&" alt="sachinkumaransh" /></p>
